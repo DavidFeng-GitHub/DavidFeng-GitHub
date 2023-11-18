@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/3o6UBaZmguJAVx2qOs/giphy.gif" alt="Alt Text" height="300" width="350">
+<img src="https://media.giphy.com/media/3o6UBaZmguJAVx2qOs/giphy.gif" alt="Alt Text" height="250" width="350">
 
 ### 👋 Hi, I'm David
 
