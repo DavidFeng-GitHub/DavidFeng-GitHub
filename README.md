@@ -12,7 +12,7 @@ I’m a graduate student at the University of Oxford studing Social Data Science
 - Using machine learning algorithms (e.g., decision-tree) to predict anxiety and depression diagnoses.
 - Cross-cultural research on temporal discounting published in Nature Human Behaviour.
 
-You can find samples of my work in my repositories.
+You can find samples of my work in my repositories: I'll be adding past and present work over time.
 
 
 ### 👨‍🎓 More about me:
@@ -22,10 +22,11 @@ I graduated from the LSE with a First-Class Honours in Psychology and Behavioura
 ### 📊 Some of my technical skills:
 I have 3+ years of experience in programming, including in Python, R and SQL.
 
-Inferential Statistics and ML: Single & multivariate regression, binary & multinomial logistic regression, multi-level models, decision-tree, random-forest, Naive Bayes, k-means clustering, principal components analysis, factor analysis, support-vector machine, hyper-parameter tuning techniques (e.g., k-fold cross-validation, test-train split).
+Inferential Statistics: Single & multivariate regression, binary & multinomial logistic regression, factor analysis, multi-level models, latent growth curve models, structural equation models.
 
-Natural Language Processing: Sentiment analysis, topic modelling (LDA), TFIDF, Naive Bayes text classifiers.
+ML: Decision-tree, random-forest, Naive Bayes, k-means clustering, principal components analysis, support-vector machine, hyper-parameter tuning techniques (e.g., k-fold cross-validation, test-train split).
 
+Computational Social Science: _NLP_ -> Sentiment analysis, topic modelling (LDA), TFIDF, Naive Bayes text classifiers. _Networks_ -> Community detection, network metrics.
 
 _The gif above reminds me of the adjacent possible: a concept from evolutionary biology suggesting that the evolution of cells, groups and ideas occurs through incremental changes to what already exists!_
   
