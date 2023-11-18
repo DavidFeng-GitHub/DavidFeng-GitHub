@@ -12,6 +12,8 @@ I’m a graduate student at the University of Oxford studing Social Data Science
 - Using machine learning algorithms (e.g., decision-tree) to predict anxiety and depression diagnoses.
 - Cross-cultural research on temporal discounting published in Nature Human Behaviour.
 
+You can find samples of my work in my repositories.
+
 
 ### 👨‍🎓 More about me:
 I graduated from the LSE with a First-Class Honours in Psychology and Behavioural Science in 2023. My BSc thesis used multilevel modelling to understand the association between religion, cooperation and environmental stability. The thesis found that religious identity promoted cooperative behaviour across religious groups, but is constrained by highly unstable environments: the findings suggest that religious diversity does not inherently lead to intergroup conflict! The thesis was jointly awarded the Best Performance award.
@@ -25,7 +27,7 @@ Inferential Statistics and ML: Single & multivariate regression, binary & multin
 Natural Language Processing: Sentiment analysis, topic modelling (LDA), TFIDF, Naive Bayes text classifiers.
 
 
-_The gif above reminds me of the adjacent possible: a concept from evolutionary biology suggesting that evolution of cells, groups and ideas occurs through incremental changes of what already exists!_
+_The gif above reminds me of the adjacent possible: a concept from evolutionary biology suggesting that the evolution of cells, groups and ideas occurs through incremental changes to what already exists!_
   
 <!---
 DavidFeng-GitHub/DavidFeng-GitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
