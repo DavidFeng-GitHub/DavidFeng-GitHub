@@ -6,7 +6,7 @@
 I’m a graduate student at the University of Oxford studing Social Data Science. I am interested in using computational methods to answer questions about human behaviour. I am especially interested in applying natural language processing and network analysis to understand intergroup relations and cooperation dynamics online.
 
 
-### 🗂 In the past, I've worked on:
+### 🗂 I've worked on:
 - Applying NLP (topic modelling) to identify social norms on Reddit communities.
 - Combining network science and NLP to examine the diffusion of sentiment on Reddit's political community.
 - Using machine learning algorithms (e.g., decision-tree) to predict anxiety and depression diagnoses.
