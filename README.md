@@ -19,7 +19,7 @@ You can find samples of my work in my repositories: I'll be adding past and pres
 I graduated from the LSE with a First-Class Honours in Psychology and Behavioural Science in 2023. My BSc thesis used multilevel modelling to understand the association between religion, cooperation and environmental stability. [The thesis](https://github.com/DavidFeng-GitHub/bsc-thesis) found that religious identity promoted cooperative behaviour across religious groups, but is constrained by highly unstable environments: the findings suggest that religious diversity does not inherently lead to intergroup conflict! The thesis was jointly awarded the Best Performance award.
 
 
-### 📊 Some of my technical skills:
+### 📈 Some of my technical skills:
 I have 3+ years of experience in programming, including in Python, R and SQL.
 
 Inferential Statistics: Single & multivariate regression, binary & multinomial logistic regression, factor analysis, multi-level models, latent growth curve models, structural equation models.
