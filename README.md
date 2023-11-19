@@ -26,9 +26,11 @@ Inferential Statistics: Single & multivariate regression, binary & multinomial l
 
 ML: Decision-tree, random-forest, Naive Bayes, k-means clustering, principal components analysis, support-vector machine, hyper-parameter tuning techniques (e.g., k-fold cross-validation, test-train-validation split).
 
-Computational Social Science: _NLP_ -> Sentiment analysis, topic modelling (LDA), TFIDF, Naive Bayes text classifiers. _Networks_ -> Community detection, network metrics.
+Computational Social Science: _NLP_ -> Sentiment analysis, topic modelling (LDA), TFIDF, Naive Bayes text classifiers. _Networks_ -> Community detection, network metrics.  
 
-_The gif above reminds me of the adjacent possible: a concept from evolutionary biology suggesting that the evolution of cells, groups and ideas occurs through incremental changes to what already exists!_
+<br>
+
+_The gif above reminds me of the adjacent possible: a concept from evolutionary biology suggesting that the evolution of cells, groups and ideas occurs through incremental changes to what already exists!_ 
   
 <!---
 DavidFeng-GitHub/DavidFeng-GitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
