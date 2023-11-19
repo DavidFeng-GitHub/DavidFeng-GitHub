@@ -7,16 +7,16 @@ I’m a graduate student at the University of Oxford studying Social Data Scienc
 
 
 ### 🗂 I've worked on:
-- Applying NLP (topic modelling) to identify social norms on Reddit communities.
+- [Applying NLP](https://github.com/DavidFeng-GitHub/reddit-nlp) to identify social norms on Reddit communities.
 - Combining network science and NLP to examine the diffusion of sentiment on Reddit's political community.
-- Using machine learning algorithms (e.g., decision-tree) to predict anxiety and depression diagnoses.
-- Cross-cultural research on temporal discounting published in Nature Human Behaviour.
+- [Using machine learning algorithms](https://github.com/DavidFeng-GitHub/ml-models-of-anxiety-and-depression) (e.g., decision-tree) to predict anxiety and depression diagnoses.
+- [Cross-cultural research](https://github.com/DavidFeng-GitHub/nature-publication) on temporal discounting published in Nature Human Behaviour.
 
 You can find samples of my work in my repositories: I'll be adding past and present work over time.
 
 
 ### 👨‍🎓 More about me:
-I graduated from the LSE with a First-Class Honours in Psychology and Behavioural Science in 2023. My BSc thesis used multilevel modelling to understand the association between religion, cooperation and environmental stability. The thesis found that religious identity promoted cooperative behaviour across religious groups, but is constrained by highly unstable environments: the findings suggest that religious diversity does not inherently lead to intergroup conflict! The thesis was jointly awarded the Best Performance award.
+I graduated from the LSE with a First-Class Honours in Psychology and Behavioural Science in 2023. My BSc thesis used multilevel modelling to understand the association between religion, cooperation and environmental stability. [The thesis](https://github.com/DavidFeng-GitHub/bsc-thesis) found that religious identity promoted cooperative behaviour across religious groups, but is constrained by highly unstable environments: the findings suggest that religious diversity does not inherently lead to intergroup conflict! The thesis was jointly awarded the Best Performance award.
 
 
 ### 📊 Some of my technical skills:
