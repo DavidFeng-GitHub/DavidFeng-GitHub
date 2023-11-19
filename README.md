@@ -3,7 +3,7 @@
 
 ### 👋 Hi, I'm David
 
-I’m a graduate student at the University of Oxford studying Social Data Science. I am interested in using computational methods to answer questions about human behaviour. I am especially interested in applying natural language processing and network analysis to understand intergroup relations and cooperation dynamics online.
+I’m a graduate student at the University of Oxford studying Social Data Science. I am interested in using computational methods to answer questions about human behaviour. I am especially interested in applying natural language processing and network analysis to understand information diffusion and cooperation dynamics online.
 
 
 ### 🗂 I've worked on:
