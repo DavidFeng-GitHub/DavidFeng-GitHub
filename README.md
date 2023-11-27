@@ -24,7 +24,7 @@ I have 3+ years of experience in programming, including in Python, R and SQL.
 
 Inferential Statistics: Single & multivariate regression, binary & multinomial logistic regression, factor analysis, multi-level models, latent growth curve models, structural equation models.
 
-ML: Decision-tree, random-forest, Naive Bayes, k-means clustering, principal components analysis, support-vector machine, hyper-parameter tuning techniques (e.g., k-fold cross-validation, test-train-validation split).
+ML: Decision-tree, random-forest, Naive Bayes, k-means clustering, principal components analysis, support-vector machine, neural networks, optimisation (e.g., gradient descent), hyper-parameter tuning (e.g., k-fold cross-validation, test-train-validation split).
 
 Computational Social Science: _NLP_ -> Sentiment analysis, topic modelling (LDA), TFIDF, Naive Bayes text classifiers. _Networks_ -> Community detection, network metrics.  
 
